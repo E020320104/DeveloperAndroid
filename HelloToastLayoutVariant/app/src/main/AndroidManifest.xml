@@ -14,7 +14,7 @@
         android:theme="@style/Theme.HelloToastLayoutVariant"
         tools:targetApi="31">
         <activity
-            android:name="com.example.hellotoastlv.MainActivity"
+            android:name="com.example.hellotoastlayoutvariant.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

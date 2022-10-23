@@ -1,4 +1,4 @@
-package com.example.hellotoastlv;
+package com.example.hellotoastlayoutvariant;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
