@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <item
+            android:id="@+id/mi_meeting"
+            android:orderInCategory="10"
+            android:icon="@drawable/ic_meeting"
+            android:title="Meeting"
+            app:showAsAction="ifRoom" />
+
+        <item
+            android:id="@+id/mi_breakfast"
+            android:orderInCategory="30"
+            android:icon="@drawable/ic_breakfast"
+            android:title="BreakFast"
+            app:showAsAction="ifRoom" />
+
+        <item
+            android:id="@+id/mi_lunch"
+            android:orderInCategory="30"
+            android:icon="@drawable/ic_lunch"
+            android:title="Lunch"
+            app:showAsAction="ifRoom" />
+
+        <item
+            android:id="@+id/mi_dinner"
+            android:orderInCategory="30"
+            android:icon="@drawable/ic_dinner"
+            android:title="Dinner"
+            app:showAsAction="ifRoom" />
+
+        <item
+            android:id="@+id/mi_entertaint"
+            android:orderInCategory="30"
+            android:title="Entertaint"
+            app:showAsAction="never" />
+</menu>

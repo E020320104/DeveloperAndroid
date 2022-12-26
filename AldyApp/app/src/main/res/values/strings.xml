@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aldy App</string>
+    <string name="input_control_activity">Input Control A`ctivity</string>
+    <string name="listview_activity">Listview Activity</string>
+    <string name="recycleview_activity">Recycleview Activity</string>
+    <string name="quit_menu">Quit Menu</string>
+</resources>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Demo_Spinner</string>
+
+    <string-array name="g20">
+        <item>Afrika Selatan</item>
+        <item>Amerika Serikat</item>
+        <item>Arab Saudi</item>
+        <item>Argentina</item>
+        <item>Australia</item>
+        <item>Brasil</item>
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Inggris</item>
+        <item>Italia</item>
+        <item>Jepang</item>
+        <item>Jerman</item>
+        <item>Kanada</item>
+        <item>Meksiko</item>
+        <item>Republik Korea</item>
+        <item>Rusia</item>
+        <item>Prancis</item>
+        <item>Tiongkok</item>
+        <item>Turki</item>
+        <item>Uni Eropa</item>
+    </string-array>
+</resources>

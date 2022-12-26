@@ -12,7 +12,8 @@
         android:id="@+id/website_edittext"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/edittext_uri"/>
+        android:minHeight="48dp"
+        android:text="@string/edittext_uri" />
 
     <Button
         android:id="@+id/open_website_button"
@@ -26,7 +27,8 @@
         android:id="@+id/location_edittext"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/edittext_loc"/>
+        android:minHeight="48dp"
+        android:text="@string/edittext_loc" />
 
     <Button
         android:id="@+id/open_location_button"
@@ -40,7 +42,8 @@
         android:id="@+id/share_edittext"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/edittext_share"/>
+        android:minHeight="48dp"
+        android:text="@string/edittext_share" />
 
     <Button
         android:id="@+id/share_text_button"
