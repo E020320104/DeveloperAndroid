@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace 'id.ac.poliban.aulia.simpleshoopinglist22'
+    namespace 'id.ac.poliban.aldy.simpleshoopinglist22'
     compileSdk 32
 
    buildFeatures {
@@ -11,7 +11,7 @@ android {
    }
 
     defaultConfig {
-        applicationId "id.ac.poliban.aulia.simpleshoopinglist22"
+        applicationId "id.ac.poliban.aldy.simpleshoopinglist22"
         minSdk 21
         targetSdk 32
         versionCode 1

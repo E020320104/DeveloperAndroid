@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
     private static final String LOG_TAG = MainActivity.class.getSimpleName();
     // Unique tag required for the intent extra
     public static final String EXTRA_MESSAGE =
-            "id.ac.poliban.va.dwi.e020320002.twoactivitiesespresso6_1.extra.MESSAGE";
+            "id.ac.poliban.va.aldy.e020320104.twoactivitiesespresso6_1.extra.MESSAGE";
     // Unique tag for the intent reply
     public static final int TEXT_REQUEST = 1;
 

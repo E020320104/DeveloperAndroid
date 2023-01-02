@@ -1,20 +1,20 @@
 package id.ac.poliban.va.codingchallenge5_3.codingchallenge5_3;
 
+import android.annotation.SuppressLint;
+import android.content.res.TypedArray;
+import android.os.Bundle;
+import android.view.View;
+
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.ItemTouchHelper;
 import androidx.recyclerview.widget.RecyclerView;
 
-import android.annotation.SuppressLint;
-import android.content.res.TypedArray;
-import android.os.Bundle;
-import android.view.View;
-
 import java.util.ArrayList;
 import java.util.Collections;
 
-import id.ac.poliban.va.dyy.dyy.codingchallenge5_3.R;
+import id.ac.poliban.va.dwi.e020320002.codingchallenge5_3.R;
 
 public class MainActivity extends AppCompatActivity {
 

@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d87d67ca-9739-436c-9740-1f2518deae26" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CodingChalenge5_1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingChallenge6_1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework3_2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework6_1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MaterialMWStarter5_2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodingChallange_73/.idea/deploymentTargetDropDown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodingChallange_7_1/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodingChallange_7_1/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodingChallenge5_2/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodingChallenge5_2/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodingChallenge5_3/app/src/main/java/id/ac/poliban/va/codingchallenge5_3/codingchallenge5_3/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodingChallenge5_3/app/src/main/java/id/ac/poliban/va/codingchallenge5_3/codingchallenge5_3/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodingChallenge5_3/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodingChallenge5_3/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodingChallenge6_1/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodingChallenge6_1/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodingChallenge6_1/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../CodingChallenge6_1/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodingChallenge6_1/app/src/androidTest/java/id/ac/poliban/va/dwi/e020320002/codingchallenge6_1/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodingChallenge6_1/app/src/androidTest/java/id/ac/poliban/va/aldy/e020320104/codingchallenge6_1/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodingChallenge6_1/app/src/main/java/id/ac/poliban/va/dwi/e020320002/codingchallenge6_1/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodingChallenge6_1/app/src/main/java/id/ac/poliban/va/aldy/e020320104/codingchallenge6_1/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodingChallenge6_1/app/src/main/java/id/ac/poliban/va/dwi/e020320002/codingchallenge6_1/WordListAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodingChallenge6_1/app/src/main/java/id/ac/poliban/va/aldy/e020320104/codingchallenge6_1/WordListAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodingChallenge6_1/app/src/test/java/id/ac/poliban/va/dwi/e020320002/codingchallenge6_1/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodingChallenge6_1/app/src/test/java/id/ac/poliban/va/aldy/e020320104/codingchallenge6_1/codingchallenge6_1/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodingChallenge_7_2/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodingChallenge_7_2/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/app/src/androidTest/java/com/example/demospinner/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/app/src/main/java/com/example/demospinner/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/app/src/test/java/com/example/demospinner/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DemoSpinner/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo_Spinner/app/src/main/java/com/example/demo_spinner/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo_Spinner/app/src/main/java/com/example/demo_spinner/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DialogForAlert/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DialogForAlert/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DialogForAlert/app/src/main/java/id/ac/poliban/mi/va/sherli/dialogforalert_sherli/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DialogForAlert/app/src/main/java/id/ac/poliban/mi/va/aldy/dialogforalert/dialogforalert_sherli/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DialogForAlert/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DialogForAlert/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DialogForAlert/app/src/test/java/id/ac/poliban/mi/va/sherli/dialogforalert_sherli/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework042/app/src/test/java/id/ac/poliban/mi/va/aldy/homework4_2/homework042_sherli/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DroidCafeInput/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../DroidCafeInput/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DroidCafeInput/app/src/androidTest/java/id/ac/poliban/mi/va/sherli/droidcafeinput/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DroidCafeInput/app/src/androidTest/java/id/ac/poliban/mi/va/aldy/droidcafeinput/droidcafeinput/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DroidCafeInput/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DroidCafeInput/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DroidCafeInput/app/src/main/java/id/ac/poliban/mi/va/sherli/droidcafeinput/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DroidCafeInput/app/src/main/java/id/ac/poliban/mi/va/aldy/droidcafeinput/droidcafeinput/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DroidCafeInput/app/src/main/java/id/ac/poliban/mi/va/sherli/droidcafeinput/OrderActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DroidCafeInput/app/src/main/java/id/ac/poliban/mi/va/aldy/droidcafeinput/droidcafeinput/OrderActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DroidCafeInput/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DroidCafeInput/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DroidCafeInput/app/src/main/res/layout/activity_order.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DroidCafeInput/app/src/main/res/layout/activity_order.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DroidCafeInput/app/src/main/res/layout/content_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DroidCafeInput/app/src/main/res/layout/content_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DroidCafeInput/app/src/main/res/menu/menu_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DroidCafeInput/app/src/main/res/menu/menu_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DroidCafeInput/app/src/test/java/id/ac/poliban/mi/va/sherli/droidcafeinput/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DroidCafeInput/app/src/test/java/id/ac/poliban/mi/va/aldy/droidcafeinput/droidcafeinput/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DroidCafeInputChallenge/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DroidCafeInputChallenge/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../DroidCafeInputChallenge/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DroidCafeInputChallenge/app/src/androidTest/java/id/ac/poliban/mi/va/sherli/droidcafeinputchallenge/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DroidCafeInputChallenge/app/src/androidTest/java/id/ac/poliban/mi/va/aldy/droidcafeinputchallenge/droidcafeinputchallenge/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DroidCafeInputChallenge/app/src/main/java/id/ac/poliban/mi/va/sherli/droidcafeinputchallenge/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DroidCafeInputChallenge/app/src/main/java/id/ac/poliban/mi/va/aldy/droidcafeinputchallenge/droidcafeinputchallenge/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DroidCafeInputChallenge/app/src/main/java/id/ac/poliban/mi/va/sherli/droidcafeinputchallenge/OrderActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DroidCafeInputChallenge/app/src/main/java/id/ac/poliban/mi/va/aldy/droidcafeinputchallenge/droidcafeinputchallenge/OrderActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DroidCafeInputChallenge/app/src/main/res/layout/content_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DroidCafeInputChallenge/app/src/main/res/layout/content_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DroidCafeInputChallenge/app/src/main/res/menu/menu_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DroidCafeInputChallenge/app/src/main/res/menu/menu_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DroidCafeInputChallenge/app/src/test/java/id/ac/poliban/mi/va/sherli/droidcafeinputchallenge/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DroidCafeInputChallenge/app/src/test/java/id/ac/poliban/mi/va/aldy/droidcafeinputchallenge/droidcafeinputchallenge/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DroidCafeOptionMenu/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DroidCafeOptionMenu/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../DroidCafeOptionMenu/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DroidCafeOptionMenu/app/src/androidTest/java/id/ac/poliban/mi/va/sherli/droidcafeoptionmenu/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DroidCafeOptionMenu/app/src/androidTest/java/id/ac/poliban/mi/va/aldy/droidcafeoptionmenu/droidcafeoptionmenu/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DroidCafeOptionMenu/app/src/main/java/id/ac/poliban/mi/va/sherli/droidcafeoptionmenu/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DroidCafeOptionMenu/app/src/main/java/id/ac/poliban/mi/va/aldy/droidcafeoptionmenu/droidcafeoptionmenu/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DroidCafeOptionMenu/app/src/main/java/id/ac/poliban/mi/va/sherli/droidcafeoptionmenu/OrderActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DroidCafeOptionMenu/app/src/main/java/id/ac/poliban/mi/va/aldy/droidcafeoptionmenu/droidcafeoptionmenu/OrderActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DroidCafeOptionMenu/app/src/main/res/menu/menu_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DroidCafeOptionMenu/app/src/main/res/menu/menu_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DroidCafeOptionMenu/app/src/test/java/id/ac/poliban/mi/va/sherli/droidcafeoptionmenu/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DroidCafeOptionMenu/app/src/test/java/id/ac/poliban/mi/va/aldy/droidcafeoptionmenu/droidcafeoptionmenu/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework042/app/src/androidTest/java/id/ac/poliban/mi/va/sherli/homework042_sherli/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework042/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework042/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework042/app/src/main/java/id/ac/poliban/mi/va/sherli/homework042_sherli/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework042/app/src/main/java/id/ac/poliban/mi/va/aldy/homework042/homework042_sherli/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework042/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework042/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework042/app/src/test/java/id/ac/poliban/mi/va/sherli/homework042_sherli/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework043/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework043/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework043/app/src/androidTest/java/id/ac/poliban/mi/va/sherli/homework043_sherli/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework043/app/src/androidTest/java/id/ac/poliban/mi/va/aldy/homework043_aldy/homework043_aldy/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework043/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework043/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework043/app/src/main/java/id/ac/poliban/mi/va/sherli/homework043_sherli/DatePickerFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework043/app/src/main/java/id/ac/poliban/mi/va/aldy/homework043_aldy/homework043_aldy/DatePickerFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework043/app/src/main/java/id/ac/poliban/mi/va/sherli/homework043_sherli/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework043/app/src/main/java/id/ac/poliban/mi/va/aldy/homework043_aldy/homework043_aldy/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework043/app/src/main/java/id/ac/poliban/mi/va/sherli/homework043_sherli/OrderActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework043/app/src/main/java/id/ac/poliban/mi/va/aldy/homework043_aldy/homework043_aldy/OrderActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework043/app/src/main/res/menu/menu_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework043/app/src/main/res/menu/menu_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework043/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework043/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework043/app/src/test/java/id/ac/poliban/mi/va/sherli/homework043_sherli/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework043/app/src/test/java/id/ac/poliban/mi/va/aldy/homework043_aldy/homework043_aldy/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework5_2/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework5_2/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework5_2/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework5_2/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework5_3/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework5_3/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework5_3/app/src/androidTest/java/id/ac/poliban/va/homework5_3/homework5_3/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework5_3/app/src/androidTest/java/id/ac/poliban/va/homework5_3/homework5_3/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework6_1/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework6_1/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework6_1/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework6_1/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework6_1/app/src/androidTest/java/id/ac/poliban/va/dwi/e020320002/homework6_1/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework6_1/app/src/androidTest/java/id/ac/poliban/va/aldy/e020320104/homework6_1/homework6_1/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework6_1/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework6_1/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework6_1/app/src/main/java/id/ac/poliban/va/dwi/e020320002/homework6_1/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework6_1/app/src/main/java/id/ac/poliban/va/aldy/e020320104/homework6_1/homework6_1/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework6_1/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework6_1/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework6_1/app/src/test/java/id/ac/poliban/va/dwi/e020320002/homework6_1/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework6_1/app/src/test/java/id/ac/poliban/va/aldy/e020320104/homework6_1/homework6_1/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework_73/.idea/deploymentTargetDropDown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework_73/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework_73/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework_7_1/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework_7_1/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework_7_2/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework_7_2/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework_7_2/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework_7_2/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyboardDialPhone/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../KeyboardDialPhone/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyboardDialPhone/app/src/androidTest/java/com/example/keyboarddialphone/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyboardDialPhone/app/src/androidTest/java/id/ac/poliban/mi/va/sherli/keyboarddialphone_sherli/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KeyboardDialPhone/app/src/androidTest/java/id/ac/poliban/mi/va/aldy/keyboarddialphone_aldy/keyboarddialphone_aldy/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyboardDialPhone/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KeyboardDialPhone/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyboardDialPhone/app/src/main/java/com/example/keyboarddialphone/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyboardDialPhone/app/src/main/java/id/ac/poliban/mi/va/sherli/keyboarddialphone_sherli/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KeyboardDialPhone/app/src/main/java/id/ac/poliban/mi/va/aldy/keyboarddialphone_aldy/keyboarddialphone_aldy/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyboardDialPhone/app/src/main/res/values-night/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KeyboardDialPhone/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyboardDialPhone/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KeyboardDialPhone/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyboardDialPhone/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KeyboardDialPhone/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyboardDialPhone/app/src/test/java/com/example/keyboarddialphone/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyboardDialPhone/app/src/test/java/id/ac/poliban/mi/va/sherli/keyboarddialphone_sherli/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KeyboardDialPhone/app/src/test/java/id/ac/poliban/mi/va/aldy/keyboarddialphone_aldy/keyboarddialphone_aldy/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyboardDialPhone/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../KeyboardDialPhone/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaterialMWStarter5_2/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaterialMWStarter5_2/app/src/androidTest/java/id/ac/poliban/va/dwi/e020320002/materialmwstarter5_2/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaterialMWStarter5_2/app/src/main/java/id/ac/poliban/va/dwi/e020320002/materialmwstarter5_2/DetailActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaterialMWStarter5_2/app/src/main/java/id/ac/poliban/va/dwi/e020320002/materialmwstarter5_2/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaterialMWStarter5_2/app/src/main/java/id/ac/poliban/va/dwi/e020320002/materialmwstarter5_2/Sport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaterialMWStarter5_2/app/src/main/java/id/ac/poliban/va/dwi/e020320002/materialmwstarter5_2/SportsAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaterialMWStarter5_2/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MaterialMWStarter5_2/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaterialMWStarter5_2/app/src/test/java/id/ac/poliban/va/dwi/e020320002/materialmwstarter5_2/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaterialMeResource5_3/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../MaterialMeResource5_3/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhoneNumberSpinnerEspresso6_1/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../PhoneNumberSpinnerEspresso6_1/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhoneNumberSpinnerEspresso6_1/app/src/androidTest/java/id/ac/poliban/va/phonenumberspinnerespresso6_1/phonenumberspinnerespresso6_1/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PhoneNumberSpinnerEspresso6_1/app/src/androidTest/java/id/ac/poliban/va/phonenumberspinnerespresso6_1/phonenumberspinnerespresso6_1/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PickerForDate/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../PickerForDate/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PickerForDate/app/src/androidTest/java/id/ac/poliban/mi/va/sherli/pickerfordate_sherli/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PickerForDate/app/src/androidTest/java/id/ac/poliban/mi/va/aldy/pickerfordate_aldy/pickerfordate_aldy/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PickerForDate/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PickerForDate/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PickerForDate/app/src/main/java/id/ac/poliban/mi/va/sherli/pickerfordate_sherli/DatePickerFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PickerForDate/app/src/main/java/id/ac/poliban/mi/va/aldy/pickerfordate_aldy/pickerfordate_aldy/DatePickerFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PickerForDate/app/src/main/java/id/ac/poliban/mi/va/sherli/pickerfordate_sherli/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PickerForDate/app/src/main/java/id/ac/poliban/mi/va/aldy/pickerfordate_aldy/pickerfordate_aldy/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PickerForDate/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PickerForDate/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PickerForDate/app/src/main/res/values-night/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PickerForDate/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PickerForDate/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PickerForDate/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PickerForDate/app/src/test/java/id/ac/poliban/mi/va/sherli/pickerfordate_sherli/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PickerForDate/app/src/test/java/id/ac/poliban/mi/va/aldy/pickerfordate_aldy/pickerfordate_aldy/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PickerForTime/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../PickerForTime/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PickerForTime/app/src/androidTest/java/id/ac/poliban/mi/va/sherli/pickerfortime_sherli/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PickerForTime/app/src/androidTest/java/id/ac/poliban/mi/va/aldy/pickerfortime_aldy/pickerfortime_aldy/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PickerForTime/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PickerForTime/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PickerForTime/app/src/main/java/id/ac/poliban/mi/va/sherli/pickerfortime_sherli/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PickerForTime/app/src/main/java/id/ac/poliban/mi/va/aldy/pickerfortime_aldy/pickerfortime_aldy/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PickerForTime/app/src/main/java/id/ac/poliban/mi/va/sherli/pickerfortime_sherli/TimePickerFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PickerForTime/app/src/main/java/id/ac/poliban/mi/va/aldy/pickerfortime_aldy/pickerfortime_aldy/TimePickerFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PickerForTime/app/src/main/res/values-night/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PickerForTime/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PickerForTime/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PickerForTime/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PickerForTime/app/src/test/java/id/ac/poliban/mi/va/sherli/pickerfortime_sherli/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PickerForTime/app/src/test/java/id/ac/poliban/mi/va/aldy/pickerfortime_aldy/pickerfortime_aldy/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Receiver_73/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Receiver_73/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScorekeeperEspresso6_1/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../ScorekeeperEspresso6_1/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScorekeeperEspresso6_1/app/src/androidTest/java/id/ac/poliban/va/dwi/e020320002/scorekeeperespresso6_1/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ScorekeeperEspresso6_1/app/src/androidTest/java/id/ac/poliban/va/aldy/e020320104/scorekeeperespresso6_1/scorekeeperespresso6_1/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScrollingText2Homework/app/src/main/java/com/example/scrollingtext2homework/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ScrollingText2Homework/app/src/main/java/com/example/scrollingtext2homework/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/example/shoppinglistchallenge/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/shoppinglistchallenge/ItemListActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/shoppinglistchallenge/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/shoppinglistchallenge/SecondActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_second.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/example/shoppinglistchallenge/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\ideap\.android\avd\Pixel_5_API_30.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GoAmYF6yqDGrDPMpV3dfzu6hdB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SimpleAsyncTask104" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.-183254748">
+      <recent name="com.example.shoppinglistchallenge" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.shoppinglistchallenge" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="ShoppingListChallenge.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+        <option name="PROFILING_MODE" value="NOT_SET" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d87d67ca-9739-436c-9740-1f2518deae26" name="Changes" comment="" />
+      <created>1667044721393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667044721393</updated>
+    </task>
+    <servers />
+  </component>
+</project>

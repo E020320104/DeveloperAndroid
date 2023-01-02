@@ -20,7 +20,7 @@ public class SecondActivity extends AppCompatActivity {
     // Class name for Log tag.
     private static final String LOG_TAG = SecondActivity.class.getSimpleName();
     // Unique tag for the intent reply.
-    public static final String EXTRA_REPLY ="id.ac.poliban.mi.ramlan.twoactivitiesespresso_061.extra.REPLY";
+    public static final String EXTRA_REPLY ="id.ac.poliban.mi.aldy.twoactivitiesespresso_061.extra.REPLY";
 
     // EditText for the reply.
     private EditText mReply;

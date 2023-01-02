@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     xmlns:tools="http://schemas.android.com/tools"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="id.ac.poliban.mi.va.sherli.droidcafeinput.MainActivity"
+    tools:context="id.ac.poliban.mi.va.sherli.droidcafeinput.id.ac.poliban.mi.va.aldy.droidcafeinput.droidcafeinput.MainActivity"
     tools:showIn="@layout/activity_main">
 
     <TextView

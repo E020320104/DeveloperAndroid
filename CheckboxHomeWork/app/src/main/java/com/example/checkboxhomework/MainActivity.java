@@ -7,6 +7,8 @@ import android.view.View;
 import android.widget.CheckBox;
 import android.widget.Toast;
 
+import com.example.checkboxhomeworkyenu.R;
+
 
 public class MainActivity extends AppCompatActivity {
     CheckBox check1, check2, check3, check4, check5;

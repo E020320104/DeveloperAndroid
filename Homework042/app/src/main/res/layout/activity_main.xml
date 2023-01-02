@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     app:layout_editor_absoluteY="80dp"
-    tools:context=".MainActivity">
+    tools:context="id.ac.poliban.mi.va.aldy.homework042.homework042_sherli.MainActivity">
 
     <TextView
         android:id="@+id/toppings_label"

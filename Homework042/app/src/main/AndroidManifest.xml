@@ -13,7 +13,7 @@
         android:theme="@style/Theme.Homework042_Sherli"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name="id.ac.poliban.mi.va.aldy.homework042.homework042_sherli.MainActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme"
             android:exported="true">

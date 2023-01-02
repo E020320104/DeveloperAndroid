@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="16dp"
-    tools:context=".MainActivity">
+    tools:context="id.ac.poliban.va.aldy.e020320104.homework6_1.homework6_1.MainActivity">
 
     <RelativeLayout
         android:layout_width="match_parent"
