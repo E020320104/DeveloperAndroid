@@ -1,0 +1,176 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.wisataappe020320104"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:6:5-67
+11-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+12-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:7:5-81
+12-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:7:22-78
+13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+13-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:8:5-79
+13-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:8:22-76
+14
+15    <!-- Include required permissions for Google Maps API to run. -->
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\ideap\.gradle\caches\transforms-3\27fba98b7da56e65dbc6232ad8edc635\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:23:5-79
+16-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\ideap\.gradle\caches\transforms-3\27fba98b7da56e65dbc6232ad8edc635\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:23:22-76
+17
+18    <uses-feature
+18-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\ideap\.gradle\caches\transforms-3\27fba98b7da56e65dbc6232ad8edc635\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:26:5-28:35
+19        android:glEsVersion="0x00020000"
+19-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\ideap\.gradle\caches\transforms-3\27fba98b7da56e65dbc6232ad8edc635\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:27:9-41
+20        android:required="true" />
+20-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\ideap\.gradle\caches\transforms-3\27fba98b7da56e65dbc6232ad8edc635\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:28:9-32
+21
+22    <queries>
+22-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\ideap\.gradle\caches\transforms-3\27fba98b7da56e65dbc6232ad8edc635\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:30:5-34:15
+23
+24        <!-- Needs to be explicitly declared on Android R+ -->
+25        <package android:name="com.google.android.apps.maps" />
+25-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\ideap\.gradle\caches\transforms-3\27fba98b7da56e65dbc6232ad8edc635\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:33:9-64
+25-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\ideap\.gradle\caches\transforms-3\27fba98b7da56e65dbc6232ad8edc635\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:33:18-61
+26    </queries>
+27
+28    <application
+28-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:10:5-56:19
+29        android:allowBackup="true"
+29-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:11:9-35
+30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+30-->[androidx.core:core:1.8.0] C:\Users\ideap\.gradle\caches\transforms-3\28a1708219c3158e49b329d141e5cfff\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+31        android:debuggable="true"
+32        android:icon="@mipmap/ic_launcher"
+32-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:12:9-43
+33        android:label="@string/app_name"
+33-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:13:9-41
+34        android:roundIcon="@mipmap/ic_launcher_round"
+34-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:14:9-54
+35        android:supportsRtl="true"
+35-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:15:9-35
+36        android:testOnly="true"
+37        android:theme="@style/AppTheme"
+37-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:16:9-40
+38        android:usesCleartextTraffic="true" >
+38-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:17:9-44
+39        <activity
+39-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:19:9-21:39
+40            android:name="com.wisataappe020320104.activities.PrayPlaceActivity"
+40-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:20:13-80
+41            android:exported="false" />
+41-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:21:13-37
+42        <activity
+42-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:22:9-24:39
+43            android:name="com.wisataappe020320104.activities.DetailWisataActivity"
+43-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:23:13-83
+44            android:exported="false" />
+44-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:24:13-37
+45        <activity
+45-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:25:9-27:39
+46            android:name="com.wisataappe020320104.activities.WisataActivity"
+46-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:26:13-77
+47            android:exported="false" />
+47-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:27:13-37
+48        <activity
+48-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:28:9-30:39
+49            android:name="com.wisataappe020320104.activities.DetailKulinerActivity"
+49-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:29:13-84
+50            android:exported="false" />
+50-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:30:13-37
+51        <activity
+51-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:31:9-33:39
+52            android:name="com.wisataappe020320104.activities.KulinerActivity"
+52-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:32:13-78
+53            android:exported="false" />
+53-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:33:13-37
+54        <activity
+54-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:34:9-36:39
+55            android:name="com.wisataappe020320104.activities.DetailHotelActivity"
+55-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:35:13-82
+56            android:exported="false" />
+56-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:36:13-37
+57        <activity
+57-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:37:9-39:39
+58            android:name="com.wisataappe020320104.activities.HotelActivity"
+58-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:38:13-76
+59            android:exported="false" />
+59-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:39:13-37
+60        <activity
+60-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:40:9-48:20
+61            android:name="com.wisataappe020320104.activities.MainActivity"
+61-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:41:13-75
+62            android:exported="true" >
+62-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:42:13-36
+63            <intent-filter>
+63-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:43:13-47:29
+64                <action android:name="android.intent.action.MAIN" />
+64-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:44:17-69
+64-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:44:25-66
+65
+66                <category android:name="android.intent.category.LAUNCHER" />
+66-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:46:17-77
+66-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:46:27-74
+67            </intent-filter>
+68        </activity>
+69
+70        <meta-data
+70-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:50:9-52:69
+71            android:name="com.google.android.gms.version"
+71-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:51:13-58
+72            android:value="@integer/google_play_services_version" />
+72-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:52:13-66
+73        <meta-data
+73-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:53:9-55:51
+74            android:name="com.google.android.geo.API_KEY"
+74-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:54:13-58
+75            android:value="Google Maps API KEY" />
+75-->E:\UAS\WisataAppE020320101\WisataAppE020320104\app\src\main\AndroidManifest.xml:55:13-48
+76        <!-- Needs to be explicitly declared on P+ -->
+77        <uses-library
+77-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\ideap\.gradle\caches\transforms-3\27fba98b7da56e65dbc6232ad8edc635\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:39:9-41:40
+78            android:name="org.apache.http.legacy"
+78-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\ideap\.gradle\caches\transforms-3\27fba98b7da56e65dbc6232ad8edc635\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:40:13-50
+79            android:required="false" />
+79-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\ideap\.gradle\caches\transforms-3\27fba98b7da56e65dbc6232ad8edc635\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:41:13-37
+80
+81        <activity
+81-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\ideap\.gradle\caches\transforms-3\7842e595a1917f89f5d32714a67b4e39\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+82            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+82-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\ideap\.gradle\caches\transforms-3\7842e595a1917f89f5d32714a67b4e39\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+83            android:exported="false"
+83-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\ideap\.gradle\caches\transforms-3\7842e595a1917f89f5d32714a67b4e39\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+84            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+84-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\ideap\.gradle\caches\transforms-3\7842e595a1917f89f5d32714a67b4e39\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+85
+86        <provider
+86-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ideap\.gradle\caches\transforms-3\7b79f7e4a058224274d9b5ea417be867\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+87            android:name="androidx.startup.InitializationProvider"
+87-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ideap\.gradle\caches\transforms-3\7b79f7e4a058224274d9b5ea417be867\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+88            android:authorities="com.wisataappe020320104.androidx-startup"
+88-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ideap\.gradle\caches\transforms-3\7b79f7e4a058224274d9b5ea417be867\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+89            android:exported="false" >
+89-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ideap\.gradle\caches\transforms-3\7b79f7e4a058224274d9b5ea417be867\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+90            <meta-data
+90-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ideap\.gradle\caches\transforms-3\7b79f7e4a058224274d9b5ea417be867\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+91                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+91-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ideap\.gradle\caches\transforms-3\7b79f7e4a058224274d9b5ea417be867\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+92                android:value="androidx.startup" />
+92-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ideap\.gradle\caches\transforms-3\7b79f7e4a058224274d9b5ea417be867\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+93            <meta-data
+93-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ideap\.gradle\caches\transforms-3\e49fb580d7eda2494a8100e094041989\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+94                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+94-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ideap\.gradle\caches\transforms-3\e49fb580d7eda2494a8100e094041989\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+95                android:value="androidx.startup" />
+95-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ideap\.gradle\caches\transforms-3\e49fb580d7eda2494a8100e094041989\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+96        </provider>
+97    </application>
+98
+99</manifest>
