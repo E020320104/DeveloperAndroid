@@ -17,13 +17,20 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76606452-c06a-406c-805a-cab659e977c9" name="Changes" comment="" />
+    <list default="true" id="76606452-c06a-406c-805a-cab659e977c9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Hallo-Toast/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hallo-Toast/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../Hallo-Toast/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hallo-Toast/app/src/main/res/values-night/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hallo-Toast/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hallo-Toast/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hallo-Toast/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hallo-Toast/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Hallo-Toast/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hallo-Toast/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Hallo-Toast/settings.gradle" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[bb9fc775]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\ideap\.android\avd\Pixel_3_XL_API_30.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -46,10 +53,14 @@
       </state>
     </system>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FaHY474kpM2HtzBk5s5wNZCgQU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -59,7 +70,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="cidr.known.project.marker" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Hallo-Toast" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Hallo Toast - Constraint" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
